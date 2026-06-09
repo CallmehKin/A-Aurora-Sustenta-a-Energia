@@ -69,6 +69,17 @@ Onde:
 3. Execute o programa
 4. Escolha uma opção no menu
 
+---
+
+## 5. link_video.txt
+
+```text
+Link do vídeo de apresentação:
+
+https://youtube.com/SEU-LINK-AQUI
+
+```
+
 ## Exemplo de uso
 
 Entrada:
