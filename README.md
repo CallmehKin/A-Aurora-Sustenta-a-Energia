@@ -71,7 +71,7 @@ Onde:
 
 ---
 
-## 5. link_video.txt
+## Link do video
 
 ```text
 Link do vídeo de apresentação:
