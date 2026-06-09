@@ -69,7 +69,15 @@ Onde:
 3. Execute o programa
 4. Escolha uma opção no menu
 
----
+## Exemplo de uso
+
+Entrada:
+
+```text
+Origem: Armazenamento de Energia
+Destino: Suporte Médico
+
+```
 
 ## Link do video
 
@@ -79,11 +87,3 @@ Link do vídeo de apresentação:
 https://youtube.com/SEU-LINK-AQUI
 
 ```
-
-## Exemplo de uso
-
-Entrada:
-
-```text
-Origem: Armazenamento de Energia
-Destino: Suporte Médico
